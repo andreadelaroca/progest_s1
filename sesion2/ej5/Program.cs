@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Crear un programa que determine si un año es bisiesto usando if y operadores lógicos.

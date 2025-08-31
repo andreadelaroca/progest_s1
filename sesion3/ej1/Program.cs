@@ -1,7 +1,5 @@
 ﻿// Validar si una entrada es un número positivo
 
-#nullable enable
-
 string entrada = string.Empty;
 bool entradaValida = false;
 
